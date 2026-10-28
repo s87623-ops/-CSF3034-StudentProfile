@@ -26,6 +26,12 @@ public class StudentProfile {
  
  // Display academic programme
  System.out.println("Programme: Bachelor of Computer Science");
+ 
+ // Display semester of student
+ System.out.println("Semester: Semester 1");
+ 
+ // Display student favourite programming language
+ System.out.println("Favourite Language: Java");
  }
  // End: Marks the termination of the program
 }
